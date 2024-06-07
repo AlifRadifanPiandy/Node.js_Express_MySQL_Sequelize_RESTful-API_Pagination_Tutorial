@@ -1,0 +1,30 @@
+{
+  "name": "node.js-express-mysql-sequelize-restful-api-pagination-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js Express MySQL Sequelize Restful API Pagination Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "mysql",
+    "sequelize",
+    "restful",
+    "api",
+    "pagination",
+    "tutorial"
+  ],
+  "author": "AlifRadifanPiandy",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.0",
+    "sequelize": "^6.37.3"
+  }
+}
