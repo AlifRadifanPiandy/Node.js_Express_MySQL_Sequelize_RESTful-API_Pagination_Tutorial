@@ -1,4 +1,4 @@
-# Node.js Express MySQL Sequelize Restful API Pagination Tutorial
+# Node.js_Express_MySQL_Sequelize_Restful-API_Pagination_Tutorial
 
 This repository contains the code and resources for a tutorial on how to create a Restful API with Node.js, Express, MySQL, and Sequelize, including pagination functionality.
 
