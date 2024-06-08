@@ -31,6 +31,12 @@ Follow these steps to set up the project environment:
    npm start
    ```
 
+## API Documentation
+
+API documentation is available in Postman format. You can import the Postman JSON file that accompanies this project to get complete documentation about the API endpoints and required requests.
+
+https://documenter.getpostman.com/view/24200467/2sA3XJn5Wy
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
